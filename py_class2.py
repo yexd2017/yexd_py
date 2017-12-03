@@ -1,4 +1,4 @@
 import os
 print ("touch or vi i")
 
-print()
+print("")
